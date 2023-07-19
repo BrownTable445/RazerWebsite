@@ -1,0 +1,32 @@
+#bottom_component {
+    padding-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+.list {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.list * {
+    color: #999;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.list > li {
+    padding-bottom: 12px;
+}
+
+.list #top {
+    color: white;
+}
+
+#bottom a:hover {
+    color: white;
+    text-decoration: underline;
+}

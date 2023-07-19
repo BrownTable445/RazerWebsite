@@ -1,0 +1,15 @@
+#bottom {
+    margin-left: 300px;
+}
+
+#bottom .icon {
+    height: 10%;
+    width: 10%;
+}
+
+#bottom #trademark {
+    color: #44d62c;
+    margin: 0px;
+    display: inline-block;
+    padding-top: 20px;
+}

@@ -1,0 +1,7 @@
+#explore_more {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #222;
+    grid-gap: 10px;
+    border-bottom: #222 10px solid;
+}
