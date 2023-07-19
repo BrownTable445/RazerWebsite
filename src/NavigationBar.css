@@ -28,6 +28,11 @@
     text-decoration: none;
 }
 
+#navbar {
+    position: fixed;
+    width: 100%;
+}
+
 .nav a:hover {
     color: white;
 }

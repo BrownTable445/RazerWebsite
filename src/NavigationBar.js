@@ -3,7 +3,7 @@ import logo from './razer-ths-logo.svg';
 
 const NavigationBar = () => {
     return (
-        <div>
+        <div id="navbar">
             <ul className="nav">
                 <li className="logo">
                     <a href="a">

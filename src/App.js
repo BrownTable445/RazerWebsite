@@ -25,7 +25,7 @@ function App() {
   return (
     <div className="App">
       <NavigationBar />
-      <Body title="NEW RAZER BLADE 14" description="SMALL SIZE. BIG PERFORMANCE" buy={true} img_src={razer_blade_14} padding={true} small={false}/>
+      <Body title="NEW RAZER BLADE 14" description="SMALL SIZE. BIG PERFORMANCE" buy={true} img_src={razer_blade_14} padding={true} small={false} first={true}/>
       <Body title="RAZER XANTHUS COLLECTION" description="THE FUSION OF UTILITY AND STYLE" buy={false} img_src={razer_xanthus_collection} padding={true} small={false}/>
       <Body title="RAZER COBRA PRO" description="PERFECTED FOR PLAY" buy={true} img_src={cobra_pro} padding={true} small={false}/>
       <LesserBody products={products} />
